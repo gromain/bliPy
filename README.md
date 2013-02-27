@@ -17,6 +17,7 @@ Example code
     bl1.blink(interval)
     
 Using colors from the dictionnary
+
     bl1.breath(interval, bl1.colors['RED'])
 
 Available colors: Red, Orange, Yellow, Spring_Green, Green, Turquoise, Cyan, Ocean, Blue, Violet, Magenta, Raspberry, White and Grey.
